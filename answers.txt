@@ -8,3 +8,13 @@ Answer: Data science can be (and is) easily applied to the medical field. For ex
 predict which patients are at risk for certain diseases/conditions by using previous patients' data. This can
 help us take preventative measures early on, hopefully leading to a healthier population. 
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging allows you to merge branches together while maintaining their histories. Rebasing allows you to
+change the base of your branch from one commit to another. They both have a similar effect, but some people prefer
+rebasing as it results in a cleaner log history.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to learn more about SQL, including storing and accessing data from databases, as well as data 
+science principles that can help me create my own models.
